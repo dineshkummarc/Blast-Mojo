@@ -2,7 +2,7 @@
   <property name="PREFIX" value="." />
   <property description="Folder for mojo and min target" name="dist" value="${PREFIX}/dist" />
 
-  <property name="compiler" value="build/yuicompressor-2.4.2.jar" />
+  <property name="compiler" value="build/yuicompressor-2.4.6.jar" />
   <property name="BM" value="${dist}/mojo.js" />
   <property name="BM_MIN" value="${dist}/mojo.min.js" />
 
