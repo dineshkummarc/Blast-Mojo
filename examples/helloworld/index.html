@@ -20,9 +20,23 @@
       <h1>Hello World Application</h1>
       <hr />
       <p>Welcome to the Hello World of the Blast Mojo Framework project.</p>
+      <hr />
       <div class="line">
         <div id="registration-form" class="unit size1of2">
           <h2>Registration Form</h2>
+          <form method="post">
+          
+          <label for="registration-username">enter username</label>
+          <input type="text" name="username" id="registration-username" />
+
+          <label for="registration-email">enter email address</label>
+          <input type="email" name="email" id="registration-email" />
+
+          <label for="registration-password">enter password</label>
+          <input type="password" name="password" id="registration-password" />
+
+          <button class="button next">Register</button>
+          </form>
         </div>
         <div id="login-form" class="unit size1of2 lastUnit">
           <h2>Login Form</h2>
