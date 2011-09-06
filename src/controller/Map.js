@@ -23,8 +23,6 @@
     (end)
 */
 dojo.provide("mojo.controller.Map");
-dojo.require("mojo.Messaging");
-dojo.require("mojo.query");
 __mojoControllerMap = null;
 dojo.declare("mojo.controller.Map", null, 
 {
