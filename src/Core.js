@@ -62,6 +62,7 @@ var mojo = {
     mojo.provide(name);
     mojo.declare(name, parent, definition);
   },
+  require: dojo.require,
   /*
   Function: query
   

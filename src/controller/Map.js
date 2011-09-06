@@ -200,7 +200,7 @@ dojo.declare("mojo.controller.Map", null,
         throw new Error('ERROR mojo.controller.Map.mapController - controllerName parameter must be a non-empty string');
 
     // import the controller
-    dojo.require(controllerName);
+    mojo.require(controllerName);
     var controllerObject = mojo.evaluateClassPath(controllerName);
     if (contextElementObj) {    
       if (!contextElementObj.mojoControllers) {
