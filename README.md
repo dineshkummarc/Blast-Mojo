@@ -36,7 +36,7 @@ Early 2007, Blast Mojo was born in order to:
 Blast Mojo Framework
 Available under the MIT License
 
-Copyright (c) 2007-2009, Blast Radius Inc. All Rights Reserved.
+Copyright (c) 2007-2011, Blast Radius Inc. All Rights Reserved.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
