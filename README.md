@@ -31,7 +31,7 @@ Early 2007, Blast Mojo was born in order to:
 * [Episode 2: How to build a basic Hello World application](http://www.youtube.com/watch?v=nXX3DVPrmGo)
 * [Episode 3: How to use the Service Locator](http://www.youtube.com/watch?v=PBR_Q-5fONo)
 
-## Licence
+## License
 
 Blast Mojo Framework
 Available under the MIT License
